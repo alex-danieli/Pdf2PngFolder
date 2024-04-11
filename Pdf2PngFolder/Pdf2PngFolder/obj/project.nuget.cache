@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "KiYq9s6M9lTdKZoGZ+DWF7Q6th9b/E1Ghc/y+U0qqudXPTKk0uWKEHuABnVYTAUj6sGZcjOACNzHrbz/4NU2EQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\Pdf2PngFolder\\Pdf2PngFolder\\Pdf2PngFolder\\Pdf2ImageFolder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\pdfiumviewer\\2.13.0\\pdfiumviewer.2.13.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\pdfiumviewer.native.x86.v8-xfa\\2018.4.8.256\\pdfiumviewer.native.x86.v8-xfa.2018.4.8.256.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\pdfiumviewer.native.x86_64.v8-xfa\\2018.4.8.256\\pdfiumviewer.native.x86_64.v8-xfa.2018.4.8.256.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Il pacchetto 'PdfiumViewer 2.13.0' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net8.0-windows7.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
+      "libraryId": "PdfiumViewer",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
